@@ -5,7 +5,7 @@ a) quantas pessoas foram cadastradas
 b) uma listagem com as pessoas mais pesadas
 c) uma listagem com as pessoas mais leves
 '''
-
+#solução do professor
 dados = []
 lista = []
 mai = men = 0
