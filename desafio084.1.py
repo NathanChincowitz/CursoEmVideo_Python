@@ -5,6 +5,7 @@ a) quantas pessoas foram cadastradas
 b) uma listagem com as pessoas mais pesadas
 c) uma listagem com as pessoas mais leves
 '''
+# minha primeira tentativa q tinha dado errado mas dps deu certo
 lista = []
 dados = []
 
